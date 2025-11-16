@@ -1,8 +1,8 @@
 ---
-title: Casper Ong
+title: welcome
 ---
 # casper ong
-### systems, operations, and management for AI, product, and emerging tech
+> systems, operations, and management for AI, product, and emerging tech
 ---
 I lead model operations at Bytedance's business integrity unit, working on prompt engineering and operational systems that enable full auto-moderation across non-China ad ecosystems.
 
